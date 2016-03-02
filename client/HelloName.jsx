@@ -1,6 +1,6 @@
 import React from 'react';
 
-const MyReactComponent = React.createClass({
+const HelloName = React.createClass({
 
   render() {
 
@@ -10,4 +10,4 @@ const MyReactComponent = React.createClass({
   }
 });
 
-export default MyReactComponent;
+export default HelloName;
